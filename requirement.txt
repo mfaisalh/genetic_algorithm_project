@@ -1,0 +1,8 @@
+
+#### `requirements.txt`
+
+```plaintext
+deap
+numpy
+matplotlib
+scikit-learn
